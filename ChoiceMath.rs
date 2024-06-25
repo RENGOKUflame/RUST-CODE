@@ -2,7 +2,7 @@
 //............................................................
 #[allow(unused_variables)]
 //use std::io;
-/*
+
 fn main()    
 {
     //choice wala section ka code................
@@ -150,4 +150,4 @@ else if  number3 ==5 {
 
     //this is the end of this program.........  
     //.....................................................................
-   */  
+   
